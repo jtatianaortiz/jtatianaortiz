@@ -1,13 +1,12 @@
 <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlNDg4NWQwNTM5ZTVlNTgwMDM3OTQ5ZWJjYjgyMjJlMDJiNzA3YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="50">, I'm Tatiana Ortiz 👩‍💻</h1>
 
 <h3 align="center"> Frontend Developer 💻 </h3>
-<h4 align="center"> I'm a lover of :sunrise_over_mountains: mountains, :green_heart: nature and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></h4>
-
-### You can find in me in the web 🌍
+<p align="center"> I'm a lover of :sunrise_over_mountains: mountains, :green_heart: nature and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></p>
+<!--
+<h3 align="left">You can find in me in the web 🌍</h3>
 
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin | Tatiana Ortiz" width="24" target="_blank">](https://www.linkedin.com/in/jtatianaortiz/)
 
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -126,3 +125,4 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jtatiana&show_icons=true&locale=en&layout=compact" alt="jtatiana" /></p>
+-->
