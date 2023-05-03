@@ -2,8 +2,11 @@
 
 <h3 align="center"> Frontend Developer 💻 </h3>
 <p align="center"> I'm a lover of :sunrise_over_mountains: mountains, :green_heart: nature and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></p>
+
+
+
 <!--
-<h3 align="left">You can find in me in the web 🌍</h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="50"> Connect with me</h3>
 
 [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin | Tatiana Ortiz" width="24" target="_blank">](https://www.linkedin.com/in/jtatianaortiz/)
 
