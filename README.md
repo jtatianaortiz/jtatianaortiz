@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlNDg4NWQwNTM5ZTVlNTgwMDM3OTQ5ZWJjYjgyMjJlMDJiNzA3YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SScTyz7dQ0Gf7c9dZ9/giphy.gif" width="50">, I'm Tatiana Ortiz 👩‍💻</h1>
 
 <h3 align="center"> Frontend Developer 💻 </h3>
-<p align="center"> I'm a lover of :sunrise_over_mountains: mountains, :green_heart: nature and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/></p>
+<p align="center"> Apasionada por la naturaleza :leaves:, enamorada de la tecnología :computer: <br />
+ y siempre sedienta de conocimiento :sparkles: </p>
 
 
 
